@@ -1,2 +1,2 @@
 # getConfigTest_PHP
-Config.jsonのlistからランダムに要素を取り出して表示するPHP
+Config.jsonのlistに書いた文字のどれか一つランダムで表示する
