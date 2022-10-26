@@ -1,0 +1,2 @@
+# getConfigTest_PHP
+Config.jsonのlistからランダムに要素を取り出して表示するPHP
